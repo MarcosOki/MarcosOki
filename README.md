@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Marcos Okita</h1>
-<p>I study at the State University of Pará, in the Software Engineering program. I am a person passionate about technology and love discovering and learning new things.</p>
+<p>I study at the State University of Pará, in the Software Engineering .I am a person passionate about technology and love discovering and learning new things.</p>
 
 <h2>Tecnologies</h2>
 
